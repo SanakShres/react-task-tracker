@@ -110,3 +110,18 @@ footer {
   margin-top: 30px;
   text-align: center;
 }
+
+.copyright {
+  padding: 25px;
+  text-align: center; 
+} 
+.copyright .copyright span{
+  color: #b3b3b3;
+}
+.copyright .copyright-menu ul {
+  margin: 0; 
+}
+.copyright .copyright-menu ul li {
+  display: block;
+  padding-left: 20px; 
+  }
