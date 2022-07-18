@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Doctors Appointment",
       "day": "Feb 5th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Gaming Program",
       "day": "Feb 7th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
@@ -25,22 +25,16 @@
       "reminder": true
     },
     {
-      "id": 5,
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30pm",
-      "reminder": true
-    },
-    {
-      "id": 7,
-      "text": "Gaming Program",
-      "day": "Feb 7th at 2:30pm",
-      "reminder": false
-    },
-    {
       "text": "Take Test 2",
       "day": "Tuesday",
-      "reminder": true,
+      "reminder": false,
       "id": 8
+    },
+    {
+      "text": "Take A test",
+      "day": "July1 2022, 11:41",
+      "reminder": false,
+      "id": 9
     }
   ]
 }

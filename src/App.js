@@ -87,7 +87,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/task-tracker">
       <div className="container">
         <Header
           toggleAddTaskForm={() => setToggleAddTask(!toggleAddTask)}
